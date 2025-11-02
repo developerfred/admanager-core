@@ -1,0 +1,8 @@
+{
+  "chainId": 42220,
+  "network": "Celo Mainnet",
+  "AdvertisementManager": "0xdc461a5b7Dd3527612867b08A2cCc87416b44879",
+  "AdToken": "0x89A3236224086d43D56981ff928E4645aaa29F7A",
+  "timestamp": 1762097766,
+  "deployer": "0xd1a8Dd23e356B9fAE27dF5DeF9ea025A602EC81e"
+}
